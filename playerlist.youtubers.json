@@ -1,0 +1,353 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Barmem"
+		],
+		"description": "List of some known TF2 youtubers.",
+		"title": "TFtubers(i hate that name)"
+	},
+	"players": [
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Samwiz1",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/Samwiz1"
+			],
+			"steamid": "[U:1:259017628]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Aar",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/user/Aarmastah/about",
+				"https://steamcommunity.com/groups/aaryt/members"
+			],
+			"steamid": "[U:1:89189905]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "SquimJim",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/AfterBreakfast/about",
+				"https://steamcommunity.com/groups/afterbreakfastclub/members"
+			],
+			"steamid": "[U:1:71174396]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "ArraySeven",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/user/ArraySeven",
+				"https://steamcommunity.com/groups/FOMV/members"
+			],
+			"steamid": "[U:1:53483883]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "BIG JOEY",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/BigJoeySlapNuts/about",
+				"https://steamcommunity.com/groups/slapnutasylum/members"
+			],
+			"steamid": "[U:1:85368529]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "[BBQ]SoftPretzel",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/ChiliOfDestiny/about",
+				"https://steamcommunity.com/groups/chiliofdestiny/members"
+			],
+			"steamid": "[U:1:22556426]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "n.",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/Delfy/about"
+			],
+			"steamid": "[U:1:43278155]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "hackerman",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/Fatmagic/about"
+			],
+			"steamid": "[U:1:98690525]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "MY NAME IS NOT JUSTIN",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/FUNKe/about"
+			],
+			"steamid": "[U:1:83927554]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "mr. rogers is very nice",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/LazyPurple/about",
+				"https://steamcommunity.com/groups/LazyPurple/members"
+			],
+			"steamid": "[U:1:85698845]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Melon TF2",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/MelonTF2/about"
+			],
+			"steamid": "[U:1:137952477]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Muselk",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/MrMuselk/about",
+				"https://steamcommunity.com/groups/mrmuselk/members"
+			],
+			"steamid": "[U:1:89740869]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Peterscraps",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/Peterscraps/about",
+				"https://steamcommunity.com/groups/Peterscraps/members"
+			],
+			"steamid": "[U:1:140260618]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Martin",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/channel/UCw2Fw3e7ryUrcgbr3iSwTjQ/about",
+				"https://steamcommunity.com/groups/SeriousMartinParty/members"
+			],
+			"steamid": "[U:1:42288118]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "aa",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/shounic/about"
+			],
+			"steamid": "[U:1:52679288]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Sir Stanger",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/SirStanger/about",
+				"https://steamcommunity.com/groups/classynet/members"
+			],
+			"steamid": "[U:1:149015945]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "sketchek",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/user/sketchek/about",
+				"https://steamcommunity.com/groups/sketchek/members"
+			],
+			"steamid": "[U:1:156774337]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Skymin",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/SkyminSlash/about",
+				"https://steamcommunity.com/groups/gardenofclouds/members"
+			],
+			"steamid": "[U:1:83527684]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "SoundSmith",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/SoundSmithTF2/about"
+			],
+			"steamid": "[U:1:161880767]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "STBlackST",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/STBlackST/about",
+				"https://steamcommunity.com/groups/stblackst_fan_group/members"
+			],
+			"steamid": "[U:1:75606371]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "alias",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/thedanechannel/about"
+			],
+			"steamid": "[U:1:97733808]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "reginald's joy",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/ZestyJesus/about"
+			],
+			"steamid": "[U:1:92165345]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "joe",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/PyroJoe/about",
+				"https://steamcommunity.com/groups/PyroJoeYouTube/members"
+			],
+			"steamid": "[U:1:126046846]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "SimpleRadiant",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/MrPaladin/about",
+				"https://steamcommunity.com/groups/MrPaladinPals/members"
+			],
+			"steamid": "[U:1:111123]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Terra Incognito",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/AceTheOcarinaMaker/about",
+				"https://steamcommunity.com/groups/aceocarinas/members"
+			],
+			"steamid": "[U:1:123371166]"
+		}
+	]
+}
