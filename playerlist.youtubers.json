@@ -363,6 +363,34 @@
 				"https://steamcommunity.com/groups/lalveproductions/members"
 			],
 			"steamid": "[U:1:51631629]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "raja",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/KingRajaGames/about",
+				"https://steamcommunity.com/groups/KingRaja/members"
+			],
+			"steamid": "[U:1:116002703]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Kostamoinen",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/Kostamoinen/about",
+				"https://steamcommunity.com/groups/Kostamoinen/members"
+			],
+			"steamid": "[U:1:83538400]"
 		}
 	]
 }
