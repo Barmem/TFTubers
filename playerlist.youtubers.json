@@ -391,6 +391,48 @@
 				"https://steamcommunity.com/groups/Kostamoinen/members"
 			],
 			"steamid": "[U:1:83538400]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "legend of demo trimp of upward",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/SolarLight/about",
+				"https://steamcommunity.com/groups/demoknighttf2/members"
+			],
+			"steamid": "[U:1:110696884]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "DasMxD",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/DasMxD/about",
+				"https://steamcommunity.com/groups/dasmxd/members"
+			],
+			"steamid": "[U:1:341033210]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "mikey",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/spikeymikey/about"
+			],
+			"steamid": "[U:1:98334894]"
 		}
+		
 	]
 }
