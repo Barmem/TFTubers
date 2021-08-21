@@ -349,6 +349,20 @@
 				"https://steamcommunity.com/groups/aceocarinas/members"
 			],
 			"steamid": "[U:1:123371166]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Doctor Lalve",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/DoctorLalve/about",
+				"https://steamcommunity.com/groups/lalveproductions/members"
+			],
+			"steamid": "[U:1:51631629]"
 		}
 	]
 }
