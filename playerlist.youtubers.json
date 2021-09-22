@@ -432,6 +432,35 @@
 				"https://www.youtube.com/c/spikeymikey/about"
 			],
 			"steamid": "[U:1:98334894]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "cool dude B)",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/OfficialMaxBox/about",
+				"https://steamcommunity.com/groups/maxboxbox/members"
+			],
+			"steamid": "[U:1:219648166]"
+		},
+		{
+			"attributes": [
+				"exploiter"
+			],
+			"last_seen": {
+				"player_name": "Agro | KritzKast",
+				"time": 0
+			},
+			"proof": [
+				"https://www.youtube.com/c/KritzKast/about",
+				"https://steamcommunity.com/groups/KritzKast/members",
+				"https://www.kritzkast.com/"
+			],
+			"steamid": "[U:1:10232821]"
 		}
 		
 	]
